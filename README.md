@@ -1,3 +1,7 @@
+## Hi 👋
+[![GitHub Streak](https://streak-stats.demolab.com/?user=oangsa)](https://git.io/streak-stats)
+
+## Github Trophies 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=oangsa)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
